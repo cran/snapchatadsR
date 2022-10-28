@@ -1,0 +1,15 @@
+d3a845a70ca24582a6b5e5d447973723 *DESCRIPTION
+4b982565e3a396a969be6420a4e7ab71 *NAMESPACE
+482fe4cb1a644c9e9070e02fee220ecf *NEWS.md
+8670d32830ab868e68e3e00df7b23ffc *R/fetch_snapchatads.R
+d83775e9e13395d3236bd42c257a98c5 *R/my_snapchatads_data.R
+f0568f664c879f443724a16f030340d7 *README.md
+77001896a77d1cb481ff42b2a5411b1a *build/vignette.rds
+0e085568965281dfc2216f718deb64c4 *data/my_snapchatads_data.RData
+8373ef01578cbae730d052ef43cbc3ce *inst/doc/tutorial.R
+5a39886417e65924c9920c4c402c4d24 *inst/doc/tutorial.Rmd
+6385b2bd11d6e7213cafb6189cedf5ca *inst/doc/tutorial.html
+b93f28122c4599e197dedeed1467cfe8 *man/fetch_snapchatads.Rd
+9fc47f3acf927da41c148b067ef5dc84 *man/my_snapchatads_data.Rd
+0e085568965281dfc2216f718deb64c4 *vignettes/my_snapchatads_data.RData
+5a39886417e65924c9920c4c402c4d24 *vignettes/tutorial.Rmd
